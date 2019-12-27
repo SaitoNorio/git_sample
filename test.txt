@@ -1,1 +1,1 @@
-confrict test1i
+競合対応テスト
